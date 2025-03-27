@@ -1,3 +1,3 @@
 # first
 frst
-autor omkar gaikwad
+autor omkar
