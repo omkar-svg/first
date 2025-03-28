@@ -1,3 +1,1 @@
-# first
-frst
-autor omkar
+this is my local repo
